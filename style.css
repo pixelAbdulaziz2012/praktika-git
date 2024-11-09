@@ -1,0 +1,124 @@
+.silka_picture{
+    position: relative;
+    bottom: -135px;
+}
+
+.conteiner{
+    margin: 0 auto;
+    padding: 16;
+    max-width: 1220px;
+}
+
+.listMenu{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    position: relative;
+    bottom: -135px;
+}
+
+.li style{
+    color: rgb(31, 21, 52);
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.active{
+    color: rgb(31, 21, 52);
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.header{
+    display: flex;
+    gap: 512px;
+}
+
+.text{
+    color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-size: 48px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: left;
+max-width: 427px;
+}
+
+.text-2{
+    color: rgb(125, 121, 135);
+font-family: sans-serif;
+font-size: 21px;
+font-weight: 300;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+max-width: 445px;
+}
+
+.btn{
+    color: rgb(255, 255, 255);
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 55px;
+background: rgb(69, 143, 246);
+padding: 5px 40px 5px 40px;
+transition: 1s;
+}
+
+.btn:hover{
+    color: rgb(69, 143, 246);
+    background: white;
+    border-radius: 0;
+}
+
+.box{
+    display: flex;
+    gap: 109px;
+    position: relative;
+    top: 200px;
+}
+
+.box-2{
+    color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.text-3{
+    color: rgb(0, 0, 0);
+font-family: sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: left;
+margin: 0 500px;
+margin-top: 300px;
+}
+
+.text-4{
+    color: rgb(125, 121, 135);
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
